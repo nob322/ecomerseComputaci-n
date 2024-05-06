@@ -25,7 +25,7 @@
 ### :collision: Integrantes del equipo
 
 - :star2: [Santiago ](https://github.com/)
-- :star2: [Agustín ](https://github.com/)
+- :star2: [Agustín ](https://github.com/PunksCode)
 - :star2: [David Sanchez](https://github.com/nob322)
   
 ---
