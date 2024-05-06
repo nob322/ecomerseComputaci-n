@@ -1,7 +1,7 @@
 
                                                  Ecomerse de una casa de computación.
 
-<center><h3>Descripción del proyecto</h3>  </center>                                             
+<center><h4>Descripción del proyecto</h4>  </center>                                             
 <p>df</p>
 <br>
 <img src="https://elementary.ec/wp-content/uploads/2020/06/sitio-web-ecommerce.jpg?raw=true">
