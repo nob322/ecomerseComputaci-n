@@ -1,5 +1,5 @@
 
-                                           Ecomerse de una casa de computación.
+                                                 Ecomerse de una casa de computación.
 
 <br>
 <img src="https://elementary.ec/wp-content/uploads/2020/06/sitio-web-ecommerce.jpg?raw=true">
