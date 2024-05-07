@@ -16,8 +16,7 @@
 - :fire: Php
 - :fire: MySql
 - :fire: Javascript
-- :fire: React
-- :fire: Bootrap
+- :fire: Boostrap
 - :fire: Html
 - :fire: Git  
 
