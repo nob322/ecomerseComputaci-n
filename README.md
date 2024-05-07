@@ -16,6 +16,7 @@
 - :fire: Php
 - :fire: MySql
 - :fire: Javascript
+- :fire: Boostrap
 - :fire: React
 - :fire: Bootrap
 - :fire: Html
@@ -35,5 +36,3 @@
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="660"/ autoplay>
 </div>
-<br>
-
