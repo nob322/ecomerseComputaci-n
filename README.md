@@ -17,17 +17,14 @@
 - :fire: MySql
 - :fire: Javascript
 - :fire: Boostrap
-- :fire: React
-- :fire: Bootrap
 - :fire: Html
 - :fire: Git  
-
 
 ---
 
 ### :collision: Integrantes del equipo
 
-- :star2: [Santiago ](https://github.com/)
+- :star2: [Santiago ](https://github.com/delgados-coder)
 - :star2: [Agustín ](https://github.com/PunksCode)
 - :star2: [David Sanchez](https://github.com/nob322)
   
