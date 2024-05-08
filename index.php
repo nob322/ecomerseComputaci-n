@@ -1,5 +1,5 @@
 <?php
 
-require("./assets/pages/templates/html.php");
+require("./app/views/html.php");
 
 ?>
