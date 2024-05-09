@@ -1,5 +1,5 @@
 :root {
-
+    
 
     /* ----------------- COLORES MODO CLARO ----------------- */
     --textoSimple-claro: #000000;
@@ -10,6 +10,12 @@
     --color4-claro: #5b9c00;
     --color5-claro: #111111;
     --color6-claro: #000000;
+    
+    --color-primary-claro: #a2d246;
+    --color-secondary-claro: #5F9000;
+    --color-fondo-claro: #D9D9D9;
+    --color-texto-claro: #000000;
+
     /* ----------------- FIN COLORES MODO CLARO ----------------- */
 
 
@@ -23,6 +29,11 @@
     --color4-oscuro: #8bcb36;
     --color5-oscuro: #efeeee;
     --color6-oscuro: #fbfaff;
+
+    --color-primary-oscuro: #a2d246;
+    --color-secondary-oscuro: #5F9000;
+    --color-fondo-oscuro: #D9D9D9;
+    --color-texto-oscuro: #000000;
     /* ----------------- FIN COLORES MODO OSCURO ----------------- */
 
 
@@ -36,6 +47,11 @@
     --color4: var(--color4-claro);
     --color5: var(--color5-claro);
     --color6: var(--color6-claro);
+
+    --color-primary: var(--color-primary-claro);
+    --color-secondary: var(--color-secondary-claro);
+    --color-fondo: var(--color-fondo-claro);
+    --color-texto: var(--color-texto-claro);
     /* ----------------- FIN COLORES POR DEFECTO ----------------- */
 }
 
@@ -52,6 +68,11 @@
     --color4: var(--color4-claro);
     --color5: var(--color5-claro);
     --color6: var(--color6-claro);
+
+    --color-primary: var(--color-primary-claro);
+    --color-secondary: var(--color-secondary-claro);
+    --color-fondo: var(--color-fondo-claro);
+    --color-texto: var(--color-texto-claro);
 }
 
 [data-modo="oscuro"] {
@@ -65,6 +86,11 @@
     --color4: var(--color4-oscuro);
     --color5: var(--color5-oscuro);
     --color6: var(--color6-oscuro);
+
+    --color-primary: var(--color-primary-oscuro);
+    --color-secondary: var(--color-secondary-oscuro);
+    --color-fondo: var(--color-fondo-oscuro);
+    --color-texto: var(--color-texto-oscuro);
 }
 
 /* ----------------- FIN ESTILOS SEGÚN EL MODO ----------------- */
