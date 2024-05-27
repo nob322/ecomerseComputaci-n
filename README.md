@@ -1,5 +1,5 @@
 
-                                   Ecomerse de una casa de computación. Santi
+                                    Ecomerse de una casa de computación. Santi
 
 <center><h4>Descripción del proyecto</h4>  </center>                                             
 <p>df</p>
